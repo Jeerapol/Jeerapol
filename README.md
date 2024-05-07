@@ -1,6 +1,6 @@
 # Jeerapol Yao | Junior Developer
 
-![Location](https://img.shields.io/badge/Location-Nakhon%20Thai%2C%20Thailand-blue) ![Email](https://img.shields.io/badge/Email-jeerapol.yao%40gmail.com-green)
+![Location](https://img.shields.io/badge/Location-Phitsanulok%2C%20Thailand-blue) ![Email](https://img.shields.io/badge/Email-jeerapol.yao%40gmail.com-green)
 
 ## Summary
 
