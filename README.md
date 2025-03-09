@@ -4,40 +4,47 @@ I'm a Junior full-st(ฺB)ack(end) Developer & IT Service professional from Thai
 
 ---
 
-📑 **Tech Stack & Familiar With**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Takashi468&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takashi468&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-**🐹 Golang**
-- Fiber
+###
 
-**⚡ JavaScript/TypeScript**
-- Next.js
-- Express.js
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-724.gif"  />
 
-**🐍 Python**
-- Flask
-- Deep Learning
-- Ultralytics YOLO
-- OpenCV
+###
 
-**☕ C#**
-- .NET
-- WPF (Windows Development)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+</div>
 
-**📦 Databases**
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🔥 Firestore
+###
 
-**🌐 Others**
-- ⚡ gRPC | REST
-- 🐳 Docker
-- ⛅ Google Cloud Platform
-- Rhapsody IBE
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
----
+###
 
-📫 **Contact Me**
-[![Location](https://img.shields.io/badge/Location-Phitsanulok%2C%20Thailand-blue)](https://www.google.com/maps/place/Phitsanulok)
-[![Email](https://img.shields.io/badge/Email-jeerapol.yao%40gmail.com-green)](mailto:jeerapol.yao@gmail.com)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Takashi468/Takashi468/output/snake.svg" alt="Snake animation" />
+
+###
 
 🚀 Always learning. Always building. Let’s connect!
