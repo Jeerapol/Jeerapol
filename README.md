@@ -1,33 +1,43 @@
-# Jeerapol Yao | Junior Developer & IT Service
+⚡️ Hi, I'm Jeerapol!
 
-![Location](https://img.shields.io/badge/Location-Phitsanulok%2C%20Thailand-blue) ![Email](https://img.shields.io/badge/Email-jeerapol.yao%40gmail.com-green)
+I'm a Junior full-st(ฺB)ack(end) Developer & IT Service professional from Thailand. Passionate about backend development, IT services, and building applications that make work easier. Currently working in R&D & Full Stack at a software house, exploring IoT, Windows App development, and Deep Learning. 🚀
 
-## Summary
+---
 
-Junior Developer and IT Service professional currently working as an outsource at Philips Thailand. Experienced in performing Preventive Maintenance (PM) on servers and clients in hospitals, assisting software engineers with PDF export processes, and providing support with the Rhapsody IBE system. Strong foundation in backend development technologies (Golang, Node.js, SQL) and a passion for building user-friendly applications.
+📑 **Tech Stack & Familiar With**
 
-## Experience
+**🐹 Golang**
+- Fiber
 
-### IT Service (Outsource) | Philips Thailand | Present
+**⚡ JavaScript/TypeScript**
+- Next.js
+- Express.js
 
-- Conducted Preventive Maintenance (PM) on servers and client systems in hospitals.
-- Assisted software engineers with hospital PDF export tasks and minor Rhapsody IBE system maintenance.
-- Provided IT support in a healthcare setting, ensuring smooth operations of IT infrastructure.
+**🐍 Python**
+- Flask
+- Deep Learning
+- Ultralytics YOLO
+- OpenCV
 
-### IT Intern | Nakhonthai Crown Prince Hospital | 2023 - 2024 (1 year)
+**☕ C#**
+- .NET
+- WPF (Windows Development)
 
-- Provided technical support to staff and assisted with maintaining hospital IT infrastructure.
-- Gained experience in troubleshooting, data management, and user support.
+**📦 Databases**
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🔥 Firestore
 
-## Education
+**🌐 Others**
+- ⚡ gRPC | REST
+- 🐳 Docker
+- ⛅ Google Cloud Platform
+- Rhapsody IBE
 
-- **Digital Business Technology** | Nakhon Thai Industrial and Community Education College | 2022 - 2024 (First Class Honors - GPA: 3.89)
-- **High School** | Nakhon Thai District Non-Formal and Informal Education | 2018 - 2022 (GPA: 3.44)
+---
 
-## Skills
+📫 **Contact Me**
+[![Location](https://img.shields.io/badge/Location-Phitsanulok%2C%20Thailand-blue)](https://www.google.com/maps/place/Phitsanulok)
+[![Email](https://img.shields.io/badge/Email-jeerapol.yao%40gmail.com-green)](mailto:jeerapol.yao@gmail.com)
 
-- **Backend Development**: Golang, Node.js, Express.js, MySQL
-- **Frontend Development (Basic)**: HTML, CSS, JavaScript
-- **Frameworks**: Next.js (preferred), Tailwind CSS
-- **IT Service & Support**: Preventive Maintenance (PM), PDF Exports, Rhapsody IBE
-- **Soft Skills**: Problem-Solving, Communication, Teamwork, Eager to Learn
+🚀 Always learning. Always building. Let’s connect!
