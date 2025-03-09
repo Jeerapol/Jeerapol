@@ -26,6 +26,5 @@ I'm a Junior full-st(ฺB)ack(end) Developer & IT Service professional from Thai
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
-###
 
 🚀 Always learning. Always building. Let’s connect!
