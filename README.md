@@ -15,8 +15,8 @@ I'm a Junior Developer from Thailand.
 - 🦀 **Rust + Tauri Desktop Apps** — offline-first, secure, and cross-platform  
 - 🌐 **Backend & API Design** — Rust (Axum) & Python (FastAPI)  
 - 🖥️ **Windows Applications** — WPF, XAML, smart card integration  
-- 🐧 **Linux/Ubuntu Development** — systemd services, kiosk systems, automation  
-- 🔌 **System Integration** — serial devices, smart card readers, printers  
+- 🐧 **Linux/Ubuntu Development** — systemd daemons, Tauri kiosk apps, hardware integration
+
 
 ---
 
@@ -26,7 +26,7 @@ I'm a Junior Developer from Thailand.
 Rust · Python · JavaScript · C# · SQL  
 
 **Frameworks & Tools:**  
-Tauri (Rust) · Axum / FastAPI · WPF (.NET) · PostgreSQL ·  
+Tauri (Rust) · Axum · WPF (.NET) · PostgreSQL ·  
 Linux/Ubuntu (systemd, Bash automation) · Git  
 
 ---
