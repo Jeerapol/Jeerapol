@@ -1,29 +1,53 @@
-⚡️ Hi, I'm Jeerapol!
+## ⚡️ Hi, I'm Jeerapol!
 
-I'm a Junior full-st(ฺB)ack(end) Developer & IT Service professional from Thailand. Passionate about backend development, IT services, and building applications that make work easier. Currently working in R&D & Full Stack at a software house, exploring IoT, Windows App development, and Deep Learning. 🚀
+I'm a Junior Developer from Thailand.
+
+🚀 I build cross-platform desktop apps, backend services, and internal tools — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Windows integrations**.
+
 <div align="center">
-<img align="center" height="450" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif"  />
+  <img align="right" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif" />
 </div>
-
 
 ---
 
+### 🧩 What I Do
 
-###
+- 🦀 **Rust + Tauri Desktop Apps** — offline-first, secure, and cross-platform  
+- 🌐 **Backend & API Design** — Rust (Axum) & Python (FastAPI)  
+- 🖥️ **Windows Applications** — WPF, XAML, smart card integration  
+- 🐧 **Linux/Ubuntu Development** — systemd services, kiosk systems, automation  
+- 🔌 **System Integration** — serial devices, smart card readers, printers  
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-724.gif"  />
+---
 
-###
+## 🛠️ Tech Stack
 
-<div align="left">
+**Languages:**  
+Rust · Python · JavaScript · C# · SQL  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
+**Frameworks & Tools:**  
+Tauri (Rust) · Axum / FastAPI · WPF (.NET) · PostgreSQL ·  
+Linux/Ubuntu (systemd, Bash automation) · Git  
 
-🚀 Always learning. Always building. Let’s connect!
+---
+
+## 💼 What I Work On
+
+Currently working at a software house in Thailand, focusing on:
+
+- 🏪 Smart Kiosk & Line-of-Business Systems  
+  *(Windows + Smart Card + API Integration)*  
+- 🧰 Cross-platform internal tools  
+  *(Rust + Tauri for Windows/Linux)*  
+- 🧱 Backend sync pipelines  
+  *(Rust/Python + SQLx/PostgreSQL)*  
+- 🐧 Ubuntu-based kiosk apps & device automation  
+
+---
+
+## 🔍 Currently Exploring
+
+- ⚙️ Clean Architecture in Rust  
+  *(modular services · SQLx · Axum)*  
+- 🖥️ Building Tauri apps optimized for **Ubuntu kiosk mode**  
+- 🧰 Developer tooling — CLI automation, config managers, and DX improvements  
