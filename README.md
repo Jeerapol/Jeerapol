@@ -1,53 +1,68 @@
-## ⚡️ Hi, I'm Jeerapol!
-
-I'm a Junior Developer from Thailand.
-
-🚀 I build cross-platform desktop apps, backend services, and internal tools — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Windows integrations**.
-
 <div align="center">
-  <img align="right" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif" />
+  <img align="right" height="140" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-preview.gif" />
+  
+  <div align="left">
+    <h1>⚡️ Hi, I'm Jeerapol!</h1>
+    <p><strong>Junior Full Stack & Embedded Systems Developer from Thailand 🇹🇭</strong></p>
+    <p>🧠 Crafting high-performance cross-platform desktop apps, backend services, and kiosk systems.</p>
+  </div>
 </div>
 
----
+<br/>
 
-### 🧩 What I Do
-
-- 🦀 **Rust + Tauri Desktop Apps** — offline-first, secure, and cross-platform  
-- 🌐 **Backend & API Design** — Rust (Axum) & Python (FastAPI)  
-- 🖥️ **Windows Applications** — WPF, XAML, smart card integration  
-- 🐧 **Linux/Ubuntu Development** — systemd daemons, Tauri kiosk apps, hardware integration
-
+<!-- 🔥 BADGES -->
+<div align="left">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43717" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=tauri&logoColor=24C8DB" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Rust · Python · JavaScript · C# · SQL  
-
-**Frameworks & Tools:**  
-Tauri (Rust) · Axum · WPF (.NET) · PostgreSQL ·  
-Linux/Ubuntu (systemd, Bash automation) · Git  
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frameworks</h4>
+      <img src="https://img.shields.io/badge/Rust-3178C6?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Axum-💼-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Databases & DevOps</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 What I Work On
+## 💼 What I Build
 
-Currently working at a software house in Thailand, focusing on:
-
-- 🏪 Smart Kiosk & Line-of-Business Systems  
-  *(Windows + Smart Card + API Integration)*  
-- 🧰 Cross-platform internal tools  
-  *(Rust + Tauri for Windows/Linux)*  
-- 🧱 Backend sync pipelines  
-  *(Rust/Python + SQLx/PostgreSQL)*  
-- 🐧 Ubuntu-based kiosk apps & device automation  
+- 🏪 **Smart Kiosk & Queue Systems**  
+  └ *Hardware integration: Smart card readers, thermal printers, and custom peripherals.*
+- 🐳 **ARM64 Embedded Deployments**  
+  └ *Cross-compiling environments for Single-Board Computers (Orange Pi / Banana Pi) via Docker.*
+- 🖥️ **Digital Signage Players**  
+  └ *Offline-first media loopers featuring automated USB content updates and robust state management.*
+- 🧰 **Cross-Platform Internal Tools**  
+  └ *Lightweight, resource-efficient desktop utilities built with Rust + Tauri.*
 
 ---
 
-## 🔍 Currently Exploring
+## 🔍 Exploring
 
-- ⚙️ Clean Architecture in Rust  
-  *(modular services · SQLx · Axum)*  
-- 🖥️ Building Tauri apps optimized for **Ubuntu kiosk mode**  
-- 🧰 Developer tooling — CLI automation, config managers, and DX improvements  
+```⚡
+📊 Advanced Rust (Bitstream, Custom Serde)  ·  🐧 Tauri on Embedded Linux
+```
+
+![snake gif](https://github.com/Jeerapol/Jeerapol/blob/output/github-snake.svg)
+
